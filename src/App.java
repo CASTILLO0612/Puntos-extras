@@ -33,7 +33,7 @@ public class App {
                 System.out.println("La resta de los numeros mayores es: "+(num1-num3) );     
              }
 
-            System.out.println("El numero mayor es " + num1);
+            System.out.println("El numero mayor es: " + num1);
         }
          if (num2>num3 && num2>num1) {
             System.out.println("La suma de los numeros menores es: " +(num3+num1) );
